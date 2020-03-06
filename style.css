@@ -1,0 +1,23 @@
+.container{
+    margin-bottom: 100px;
+}
+
+
+.background-color{
+    background-color: #feeae9;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #ff136f;
+}
+.bay-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff136f 100%);
+    border: none;
+    padding: 9px 25px;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 6px;
+}
